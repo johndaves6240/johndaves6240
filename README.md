@@ -5,5 +5,5 @@
 
 - 🌱 I’m currently learning **NextJS, MongoDB, and C#.**
 
-- 📫 Contact me through my email **jdavesbaguio@gmail.com**
+- 📫 Contact me **jdavesbaguio@gmail.com**
 
