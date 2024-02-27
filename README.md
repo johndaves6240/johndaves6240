@@ -1,5 +1,5 @@
 
-- 👋 Hi, I'm **John Daves**
+- 👋 Hi, I'm **John**
 
 - 🔭 I’m interested in **Software Development**
 
